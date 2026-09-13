@@ -1,4 +1,4 @@
-Xash3D serverfucker by reBash3D
+Xash3D serverfucker by Flying With Yarrak
 
 youtube - https://youtube.com/@maysk1yfuckjs
 telegram - https://t.me/rebashshitpost
