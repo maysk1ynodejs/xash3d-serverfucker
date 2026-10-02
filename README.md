@@ -1,4 +1,10 @@
 Xash3D serverfucker by Flying With Yarrak
+1.2 changelog:
+
+added second attack mod(info flood)
+code rewritten
+added random playload generation 
+
 
 youtube - https://youtube.com/@maysk1yfuckjs
 telegram - https://t.me/rebashshitpost
