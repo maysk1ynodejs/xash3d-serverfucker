@@ -2,7 +2,9 @@ Xash3D serverfucker by Flying With Yarrak
 1.2 changelog:
 
 added second attack mod(info flood)
+
 code rewritten
+
 added random playload generation 
 
 
